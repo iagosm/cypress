@@ -1,0 +1,11 @@
+# Ignora todos os arquivos e pastas dentro da pasta node_modules
+node_modules/
+
+# Ignora o arquivo de variáveis de ambiente
+.env
+
+# Ignora todos os arquivos dentro da pasta logs
+logs/
+
+# Ignora todos os arquivos que terminam com .tmp
+*.tmp
