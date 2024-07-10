@@ -17,3 +17,19 @@ O sistema processa as informações fornecidas.
 
 Regra de Negócio:
 E-mail e senha são campos obrigatórios para o cadastro.
+
+|||||||||||||||||
+
+Funcionalidade:  Login no site Adopet
+Cenário: Login no sistema com Sucesso
+
+
+Passos:
+O usuário acessa a página de login.
+O usuário insere seu email "ana@email.com" e senha "Senha123" nos campos correspondentes.
+O usuário clica no botão "Entrar"
+
+Resultados Esperados:
+
+O sistema autentica as credenciais fornecidas.
+O sistema redireciona o usuario para a página "/home"
