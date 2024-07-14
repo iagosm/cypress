@@ -9,3 +9,4 @@ logs/
 
 # Ignora todos os arquivos que terminam com .tmp
 *.tmp
+cypress.env.json
